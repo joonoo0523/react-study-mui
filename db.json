@@ -1,6 +1,32 @@
 {
   "posts": [
-    { "id": "1", "title": "a title", "author": "Gim" },
-    { "id": "2", "title": "another title", "author": "Gim" }
+    {
+      "id": "1",
+      "title": "a title",
+      "author": "Gim"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "author": "Gim"
+    },
+    {
+      "id": "4aca",
+      "title": "asd",
+      "content": "asd",
+      "author": "asd"
+    },
+    {
+      "id": "7d0e",
+      "title": "ㅁㄴㅇ",
+      "content": "ㅁㄴㅇ",
+      "author": "ㄴ"
+    },
+    {
+      "id": "b282",
+      "title": "ㄴㅁ",
+      "content": "ㅁㄴ",
+      "author": "ㄴㅁㄴ"
+    }
   ]
 }
